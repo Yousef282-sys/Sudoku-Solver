@@ -9,11 +9,6 @@ This is a graphical user interface (GUI) for solving Sudoku puzzles. It allows t
 - tkinter
 - PIL
 
-## Usage
-To use the program,
-You can follow the steps below to execute the program.
-OR manually run the `main.py` file in a Python environment. This will open the GUI window.
-
 ``` bash
 git clone https://github.com/uppercasee/SudokuSolver.git
 cd SudokuSolver
