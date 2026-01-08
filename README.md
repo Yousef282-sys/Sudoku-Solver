@@ -10,9 +10,7 @@ This is a graphical user interface (GUI) for solving Sudoku puzzles. It allows t
 - PIL
 
 ``` bash
-git clone https://github.com/uppercasee/SudokuSolver.git
-cd SudokuSolver
-python3 ./main.py
+
 ```
 
 ## Inputting a puzzle
